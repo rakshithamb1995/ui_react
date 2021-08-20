@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Layouts</title>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <style>
+         body{
+         margin: 0px;
+         padding: 0px;
+         width: 100%;
+         }
+         .parent{
+             border:1px solid blueviolet;
+             padding:15px;
+             display: flex;
+         }
+         .child{
+            border:1px solid yellow;
+            padding: 5px;
+            display: flex;
+            flex: 2;
+         }
+         .grand-child{
+            border:1px solid red;
+            padding: 3px;
+            flex: 1;
+         }
+      </style>
+   </head>
+   <body>
+       <div class="parent">
+           <div class="child">
+              <div class="grand-child"></div>
+              <div class="grand-child"></div>
+              <div class="grand-child"></div>
+              <div class="grand-child"></div>
+         
+            </div>
+           <div class="child"></div>
+           <div class="child"></div>
+           <div class="child"></div>
+           <div class="child"></div>
+           <div class="child"></div>
+           <div class="child"></div>
+           <div class="child"></div>
+           <div class="child"></div>
+       </div>
+   </body>
+</html>

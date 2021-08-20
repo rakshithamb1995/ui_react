@@ -1,0 +1,20 @@
+u tag - will underline the text, this tage can be used for displaying misspelled text
+mark tag - will mark the text to hoighlight
+Strike tag - not using now, it is used to strike the text
+tt tag - teletype tag, not in use. it uses monospace font, character will equal text here
+del tag - This tag Ensure the text ha been deleted
+ins tag - this tag insert the text
+Adress, code, var, pre, samp Tags
+
+
+ul - unordered list
+ol - ordered list
+dl - description list
+
+Special characters
+=======================
+Assignment - 
+heading, subheading, paragraph 4to5
+create a table and write some college data - Fn LN Ph no course take, minimum 30 records
+
+

@@ -1,0 +1,12 @@
+Tags - gives properties to content
+<tagname attribute name = "atribute value">content</tagname>
+<tagname attribute name = "property name:property value">content</tagname>
+HTML Tags List
+=====================
+1. Unclosed/void/self closing tags - only having start tag, no closing tag 
+                                     ex: <br>, <hr> and <img>
+2. Meta tags - <!Doctype>, <title>, <link>, <meta>, <style>
+3. Text Tags - Deals with the text content
+                ex: H1 to H6 tags, paragraph, strong, em, abbr, acronym, address, bdo,blockquote, cite,1, code, var, kbd
+4. Link tags - a, base
+5. Image tags - <img> <area> <map> <param> <object> <height>

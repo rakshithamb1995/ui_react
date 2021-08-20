@@ -1,0 +1,42 @@
+Layouts
+================
+There are four layouts in HTML
+Grid, flex, float and Grid layouts
+CSS Selcetors - 
+1. tags
+2. id
+3. class
+Semantic Elements - defines different parts of a web site
+1. Header
+2. Nav
+3. Section
+4. Aside
+5. Footer
+
+Assignments-
+check with all the tags attributes for table layouts -
+align	
+bgcolor
+border
+cellpadding
+cellspacing
+frame
+rules
+summary
+width
+check with disply:flex property and child properties of it
+notedown all the semantic tags of HTML5- 
+Semantic elements = elements with a meaning.
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>

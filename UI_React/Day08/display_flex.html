@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Layouts</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <style>
+    .parent{
+    border: 1px solid red;
+    padding: 15px;
+}
+.child{
+    border: 1px solid green;
+    display: inline;
+}
+.parent-flex{
+    border: 1px solid blueviolet;
+    display: flex;
+}
+.child-flex{
+    border: 1px solid green;
+    
+}
+.parent-flex-direct{
+    border: 1px solid green;
+    display: flex; 
+    flex-direction: row-reverse;
+}
+        </style>
+        </head>
+
+        <body>
+            
+            <div class="parent">
+                <div class="child">CHILD1</div>
+                <div class="child">CHILD2</div>
+                <div class="child">CHILD3</div>
+            </div>
+            <div class="parent-flex">
+                <div class="child-flex">CHILD1</div>
+                <div class="child-flex">CHILD2</div>
+                <div class="child-flex">CHILD3</div>
+            </div>
+            <div class="parent-flex-direct">
+                <div class="child-flex1">CHILD1</div>
+                <div class="child-flex2">CHILD2</div>
+                <div class="child-flex3">CHILD3</div>
+            </div>
+        </body>

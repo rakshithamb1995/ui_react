@@ -1,0 +1,18 @@
+display:flex - All the child element in sigle line
+====================
+Display Types
+1. Inline - Occupies the only th width required for the content and avoids taking of height property
+2. Inline block - Occupies the only th width required for the content and it will take height and width
+3. block - occupy whole row of the screen
+
+display:flex property will affect to the child elements
+
+
+D/f b/w Margin and padding
+============================
+padding - will apply inside the container
+margin - around the element
+justify content
+align items
+
+create layout with flex property

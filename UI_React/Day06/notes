@@ -1,0 +1,12 @@
+Table - <table> to represent any data in a structured way
+tr,th,tbody,thead,tfooter,colspan,rowspan - 
+
+Forms - to collect  the data to store 
+name method and action are the 3 main attributes in the form tag
+action - it tells where the form data should go
+Method - post or get
+get method - both get and sending the data
+post - sending the data
+input - building block of form (type is the main attribute used for input tag)
+list down 21
+assignment - all tags ex,table with 10 records mege, form name mailID contact address
